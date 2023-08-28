@@ -29,7 +29,7 @@ alias get-config-params="docker run -w /usr/local/bin -it mfiscus/ham-dht-tools 
 ## License
 
 Copyright (C) 2020-2022 Thomas A. Early N7TAE  
-Copyright (C) 2023 mfiscus KK7MNZ
+Copyright (C) 2023 Matt Fiscus KK7MNZ
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
